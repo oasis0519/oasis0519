@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Languages-English-brightgreen" />
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Phillip Lahm </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Vu Dung </h1>
 <h3 align="center">Blockchain | Bitcoin | Web Developer </h3>
 
 <p align="center">
