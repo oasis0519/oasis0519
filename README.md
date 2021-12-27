@@ -2,8 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=seniordev0519&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-24-blue" />
-  <img src="https://img.shields.io/badge/Focus-Blockchain%20%26%20Bitcoin-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Blockchain%20%26%20Smart contract-brightgreen" />
   <img src="https://img.shields.io/badge/Languages-English-brightgreen" />
 </p>
 
@@ -29,8 +28,6 @@ Ask me anything <a href="https://github.com/seniordev0519/seniordev0519/issues/n
 ✔ 🔭 &nbsp; I’m currently learning Blockchain and Bitcoin Application Development<br>
 ✔ 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br>
 ✔ 💼 &nbsp; Android developer and Full-Stack developer.<br>
-✔ 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .<br>
-✔ 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.<br>
 ✔ ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. <br>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***🛠 Tech Stack ....***
