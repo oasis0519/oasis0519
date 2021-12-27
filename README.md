@@ -8,10 +8,10 @@
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Vu Dung </h1>
-<h3 align="center">Blockchain | Bitcoin | Web Developer </h3>
+<h3 align="center">Blockchain | Smart contract | Web Developer </h3>
 
 <p align="center">
- <a href = "mailto:greendream0123@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+ <a href = "mailto:seniordev0519@outlook.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 
 <div align="center">
