@@ -30,7 +30,7 @@ Ask me anything <a href="https://github.com/seniordev0519/seniordev0519/issues/n
 ✔ 💼 &nbsp; Android developer and Full-Stack developer.<br>
 ✔ ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. <br>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***🛠 Tech Stack ....***<br>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***🛠 Tech Stack ....*** <br><br>
 ✔ 🖥 &nbsp;![C,C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff)&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-0078D4?style=flat&logo=typescript&logoColor=black)&nbsp;![Solidity](https://img.shields.io/badge/Solidity-35495E?style=flat&logo=solidity&logoColor=white)&nbsp;<br>
 ✔ 💻 &nbsp; ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)&nbsp;![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)&nbsp;<br>
 ✔ 🖥&nbsp; ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)&nbsp;![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)&nbsp;![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green)&nbsp;<br>
