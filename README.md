@@ -25,7 +25,7 @@ Ask me anything <a href="https://github.com/seniordev0519/seniordev0519/issues/n
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ 🔭 &nbsp; I’m currently focusing on BlockChain and Smart Contract <br>
+✔ 🔭 &nbsp; I’m currently focusing on Web3, BlockChain and Smart Contract <br>
 ✔ 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br>
 ✔ 💼 &nbsp; Web3 developer and Blockchain and Smart Contract Developer.<br>
 ✔ ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. <br>
