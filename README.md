@@ -2,12 +2,12 @@
 <img src="https://komarev.com/ghpvc/?username=seniordev0519&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Blockchain%20%26%20Smart contract-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Blockchain%20%26%20Smart contract%20%26%20Web3-brightgreen" />
   <img src="https://img.shields.io/badge/Languages-English-brightgreen" />
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Vu Dung </h1>
-<h3 align="center">Blockchain | Smart contract | Web Developer </h3>
+<h3 align="center">Blockchain | Smart contract | Web3 Developer </h3>
 
 <p align="center">
  <a href = "mailto:seniordev0519@outlook.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
